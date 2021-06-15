@@ -52,7 +52,7 @@ img {
     height: 100%;
     margin: 0 auto;
     position: relative;
-    
+
 }
 
 .section-heading {
@@ -70,7 +70,9 @@ img {
     margin-bottom: 1rem;
     font-family: 'Poiret One', cursive;
     
-}
+} 
+
+
 
 .section-heading h1::before,
 .section-heading h1::after {

@@ -11,6 +11,7 @@ $(document).ready(function () {
     });
 
     
+    
     $('nav a[href*="#"]').on('click', function (e) {
         if(this.hash != ''){
             e.preventDefault();

@@ -11,10 +11,8 @@ felipegomesaraujo.com 👋
   <div> 
   <a href="https://www.linkedin.com/in/felipe-gomes-92b4b8143" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/felipim.g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:felips.g58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
-
-
+  
  <div>
   <a href="https://github.com/FelipsDevelopment">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipsDevelopment&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>

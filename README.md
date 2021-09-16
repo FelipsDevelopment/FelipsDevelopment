@@ -1,9 +1,10 @@
 
-felipegomesaraujo.com 👋
 
 
-🖥️ -- Desenvolvedor Front-end Jr
--- 
+
+🖥️ -- Desenvolvedor Front-end Jr 
+
+✔️ -- Portifólio: https://www.felipegomesaraujo.com 👋
 
 
 

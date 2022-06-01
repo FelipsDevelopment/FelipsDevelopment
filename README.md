@@ -4,8 +4,6 @@
 
 🖥️ -- Desenvolvedor Front-end Jr 
 
-📁 -- GitLab: https://gitlab.com/FelipsDevelopment
-
 ✔️ -- Portifólio: https://www.felipegomesaraujo.com 👋
 
   <div> 

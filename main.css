@@ -44,6 +44,10 @@ img {
     border-radius: 7px;
 }
 
+.imgprofile {
+    border-radius: 100%;
+}
+
 /*======================= (Global) Alinhamento dos textos e containers =======================*/
 
 .container {
@@ -265,6 +269,7 @@ li {
 .profile-img {
     width: 50rem;
     flex:1;
+    
 }
 
 
@@ -334,7 +339,6 @@ li {
     margin-right: 5rem;
     max-width: 370px;
     
-
     
 }
 
